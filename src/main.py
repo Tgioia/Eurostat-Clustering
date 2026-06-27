@@ -7,27 +7,18 @@ from extractData import extract_dates, load_nuts_vocabulary, extract_geography
 
 
 def is_eurostat_data_value(text):
-    """
-    Riconosce se una stringa è un dato statistico di Eurostat.
-    Cattura: "123", "-0.4", "12.5 e", "-0.1 bep", e il simbolo ":" (dato mancante).
-    """
-    # Eurostat usa spesso ":" o ": c" per i dati mancanti/confidenziali
     if text.startswith(':'):
         return True
         
-    # Regex per: [segno opzionale][numeri][punto opzionale][numeri][spazio opzionale][lettere opzionali]
     pattern = re.compile(r'^[-+]?\d*\.?\d+\s*[a-zA-Z]*$')
     return bool(pattern.match(text))
 
 def clean_strings(text_list):
-    """
-    Pulisce le stringhe scartando i dati numerici e le flag.
-    """
+   
     cleaned = set()
     for item in text_list:
         text = str(item).strip()
         
-        # Tieni la stringa solo se NON è vuota e NON è un valore numerico/flag
         if text and not is_eurostat_data_value(text):
             cleaned.add(text.lower())
             
