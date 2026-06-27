@@ -25,7 +25,6 @@ TERMS TO CLASSIFY:
 {', '.join(batch_terms)}
 """
     
-    # temperature 0.0 makes the AI generate text faster and more predictably
     response = ollama.chat(
         model='ibm/granite4.1:3b', 
         messages=[{'role': 'user', 'content': prompt}],
@@ -58,12 +57,11 @@ def initialize_csvs(output_dir):
         'N': 'dimension_names.csv',
         'A': 'dimension_values.csv',
         'U': 'units.csv',
-        'O': 'other_discarded.csv' # Good to keep track of what the AI threw away
+        'O': 'other_discarded.csv' 
     }
     
     for key, filename in file_map.items():
         filepath = os.path.join(output_dir, filename)
-        # 'w' mode here overwrites previous runs so you start fresh
         with open(filepath, 'w', newline='', encoding='utf-8') as f:
             writer = csv.writer(f)
             writer.writerow(['term'])
@@ -75,7 +73,6 @@ def append_to_csvs(batch_result, file_map, output_dir):
     for key, filename in file_map.items():
         if key in batch_result and isinstance(batch_result[key], list) and len(batch_result[key]) > 0:
             filepath = os.path.join(output_dir, filename)
-            # 'a' mode appends to the file instead of rewriting it
             with open(filepath, 'a', newline='', encoding='utf-8') as f:
                 writer = csv.writer(f)
                 for term in batch_result[key]:
@@ -92,7 +89,6 @@ def run_classification():
     with open(input_file, 'r', encoding='utf-8') as f:
         terms = [line.strip() for line in f.readlines() if line.strip()]
     
-    # Setup the files once at the very beginning
     file_map = initialize_csvs(output_dir)
     
     batch_size = 50
@@ -105,10 +101,7 @@ def run_classification():
         batch_num = (i // batch_size) + 1
         print(f"Processing batch {batch_num}/{total_batches}...")
         
-        # 1. Ask the AI
         result = classify_batch(batch)
-        
-        # 2. Instantly append the new results to the CSV files
         append_to_csvs(result, file_map, output_dir)
         
     print("\n--- Classification complete! ---")
