@@ -1,0 +1,2004 @@
+aei pestsal rsk
+annual
+apri lprc h
+apri lrnt h
+apri pi95 vwia
+apri pi95 vwpa
+apro ec egghen
+apro ec lshen
+apro mk fatprot
+apro mt lsequi
+apro mt ppighq
+avia ec emp arp
+avia ec emp ent
+avia ec enterp
+avia eq arc age
+avia eq arc agereg
+avia if arp
+avia tpgo
+avia tppa
+bd size$dv 1502
+bop its str
+bs bs1 00
+bs bs10 00
+bs bs11 00
+bs bs13 04
+bs bs14 04
+bs bs16 04
+bs bs2 00
+bs bs4 06
+bs bs5 00
+bs bs5 04
+bs bs6 00
+bs bs6 04
+bs bs7 00
+bs bs7 04
+bs bs8 00
+bs bs9 00
+cei cie011
+cei cie012
+cei cie020
+cei gsr011
+cei gsr020
+cei gsr030
+cei pc020
+cei pc030
+cei pc031
+cei pc032
+cei pc034
+cei pc035
+cei pc040
+cei pc050
+cei srm010
+cei wm010
+cei wm011
+cei wm020
+cei wm060
+cens 01ndbuild
+cens 01ndcomf
+cens 01ndquart hd
+cens 01ndquart lq
+cens 01ndquart oc
+cens 91dame
+cens 91down
+cens 91dper
+cens 91hnnch
+cens 91hpnper
+cens 91typb
+cens 91typl
+cens hndwnr
+cens hndwsize
+crim crt per
+crim hist
+crim hom city
+crim hom ocit
+crim hom vcit
+crim just bri
+crim off cat$dv 1401
+crim off cat$dv 348
+crim plce
+crim pris cap
+crim pris ctz
+crim pris pop
+crim pris tri
+crim smu sctz
+crim thb sex$dv 1641
+crim thb vctz
+crim thb vctz$dv 1643
+crim thb vexp
+cult emp art
+cult emp sex
+cult pcs nws
+cult pcs qnt
+demo fabortind
+demo magec$dv 1942
+demo mexrt
+demo mlexpec$dv 292
+demo popep
+demo popmdctb
+demo r find3$dv 1541
+demo r gind3$dv 1542
+demo r pjanind3$dv 1561
+demo urespop
+dsb sprpb01
+dsb sprpb02
+earn gr goeg
+earn gr gpgr2ag
+earn gr gpgr2ct
+earn gr gpgr2wt
+earn gr hgpg
+earn mw avgr1
+earn mw avgr2
+earn nt lowwtrp
+earn nt netft
+earn nt taxwedge
+earn nt unemtrp
+earn ses actrl
+earn ses adeci
+earn ses mctrl
+earn ses mdeci
+earn ses pub1a
+earn ses pub1a$dv 352
+earn ses pub1i
+earn ses pub1i$dv 353
+earn ses pub1s
+earn ses pub1s$dv 354
+earn ses pub1t
+earn ses pub2a$dv 1880
+earn ses pub2s
+earn ses pub2s$dv 1879
+earn ses06 rann
+earn ses06 rhr
+earn ses10 actrl
+earn ses10 adeci
+earn ses10 mctrl
+earn ses10 mdeci
+earn ses10 rann
+earn ses10 rhr
+earn ses14 actrl
+earn ses14 adeci
+earn ses14 mctrl
+earn ses14 mdeci
+earn ses14 rann
+earn ses18 actrl
+earn ses18 adeci
+earn ses18 mctrl
+earn ses18 rann
+edat lfse 03$dv 598
+edat lfse 14$dv 1864
+edat lfse 14$dv 356
+edat lfse 20$dv 1101
+edat lfso 00t2
+edat lfso 00t4
+edat lfso 00t5
+educ fiaid
+educ fiexpc
+educ ipart$dv 437
+educ iste
+educ outc pisa
+educ uoe enra05$dv 441
+educ uoe enra06
+educ uoe enra07
+educ uoe enra08
+educ uoe enra10
+educ uoe enra17
+educ uoe enra18
+educ uoe enra19
+educ uoe enra20
+educ uoe enra21
+educ uoe enra22
+educ uoe enra23
+educ uoe enra25
+educ uoe enra27
+educ uoe enra28
+educ uoe enra29
+educ uoe enrt05
+educ uoe enrt08
+educ uoe fina01
+educ uoe fini05
+educ uoe fini06
+educ uoe grad06
+educ uoe grad07
+educ uoe grad09
+educ uoe lang03
+educ uoe mobs03$dv 1126
+educ uoe perd04
+educ uoe perd05
+educ uoe perp03
+educ uoe perp05
+egi co2 1
+egi em1
+egi em2
+egi em3
+egi rd1
+egi so1
+egi tr1
+egi tr2
+egi tr3
+egi tr4
+egi tr5
+egi va1
+egi va2
+egr conc
+egr emp
+egr mne
+egr mne n2sc
+ei bsci m r2
+enpe apro cpnh1
+enpe apro mt ls
+enpe apro mt p
+enpe bop c6 a
+enpe bop iip6
+enpe bop iip6 serv
+enpe cpi
+enpe edat lfse 03
+enpe edat lfse 14
+enpe educ figdp
+enpe educ uoe enra02
+enpe ef lus main
+enpe ext bal
+enpe ext intro
+enpe fish ca main
+enpe gov 10dd
+enpe hlth exp
+enpe ilc di11
+enpe ilc li01
+enpe ilc li09
+enpe irt ld
+enpe irt lt gby10
+enpe irt st
+enpe isoc ci ifp fu
+enpe isoc ci in h
+enpe lfsa argaed
+enpe lfsa ergan
+enpe lfsa urgan
+enpe lfsa urgan2
+enpe mar go
+enpe mon res
+enpe nama 10 a10
+enpe nama 10 gdp
+enpe nama 10 gdp ea
+enpe nama 10 lp
+enpe nama 10 pe
+enpe nama 10 ulc
+enpe rail go
+enpe rail if
+enpe rd e gerdfund
+enpe reg area3
+enpe road eqs car
+enpe road go
+enpe road if
+enpe road pa
+enpe spr exp
+enpe sts incopr
+enpe sts inppd
+enpe sts trtu
+enpe sts trtu1
+enpe tour cap nat
+enpe tour dem tttot
+enpe tour occ arnat
+enpe wg m
+enps apro cpnh1
+enps apro mt ls
+enps apro mt p
+enps avia fr
+enps avia if
+enps avia pa
+enps avia typ
+enps bop iip6
+enps cpi
+enps demo dens
+enps demo frate1
+enps demo gind
+enps demo infant
+enps demo mlexpec
+enps demo nind
+enps demo pjangry
+enps demo under5
+enps edat lfse3
+enps edat lfse4
+enps educ comprate
+enps educ compyr
+enps educ enrate
+enps educ figdp
+enps educ ltr
+enps educ parity
+enps ef lus main
+enps env air emis
+enps env wasacc
+enps env wasgenh
+enps env wasgenm
+enps env wasgenp
+enps env wastrt
+enps env wat abs
+enps env wat cat
+enps env wat cov
+enps env ww con
+enps fish aq2a
+enps fish ca main
+enps gov 10dd
+enps gov 10dde
+enps ilc di11
+enps ilc natln
+enps ilc sanit
+enps ilc secure
+enps lfsa argaed
+enps lfsa egaps
+enps lfsa ergan
+enps lfsa pganws
+enps lfsa urgan
+enps mar eq1000
+enps mar eq300
+enps mar eqton
+enps mar frdir
+enps mar padir
+enps mar por
+enps nama 10 a10
+enps nama 10 gdp
+enps nama 10 gdp ea
+enps nrg bal c
+enps nrg bal c1
+enps rail eq
+enps rail fr
+enps rail if
+enps rail pa
+enps reg area3
+enps road eqs car
+enps road go
+enps road if
+enps tour border
+enps tour cap nat
+enps tour cap natb
+enps tour dem tttot
+enps tour occ arnat
+enps tour occ ninat
+enps tran sf r
+env ac cur
+env ac curm
+env ac egss3
+env ac epite
+env ac epite1
+env ac landfp
+env ac mid
+env ac rp
+env air no2
+env bio1
+env bio2
+env bio3
+env bio4
+env bio5
+env chmhaz
+env waspb
+env waspcb
+env wat pop
+eq fer05
+eq mor06
+eq pop02
+eq pop03
+eq pop04
+ert bil conv a
+ert bil eur a$dv 841
+ert bil eur a$dv 861
+ert h eur a
+ext ser bec01
+fish ca pac61
+fish ca pac71
+for area
+for awu
+for profnc
+for protect
+for secwpp
+for vol
+gba nabste
+gbv any age
+gbv any cnq
+gbv any cob
+gbv any du
+gbv any ed
+gbv any frq
+gbv any lim
+gbv any occ
+gbv any rp
+gbv any type
+gbv awr leg
+gbv awr serv
+gbv ch age
+gbv ch perp
+gbv ch rp
+gbv dv age
+gbv dv cob
+gbv dv du
+gbv dv ed
+gbv dv lim
+gbv dv occ
+gbv dv type
+gbv ipv age
+gbv ipv cnq
+gbv ipv cob
+gbv ipv comm
+gbv ipv du
+gbv ipv ed
+gbv ipv frq
+gbv ipv lim
+gbv ipv occ
+gbv ipv rp
+gbv ipv type
+gbv npv age
+gbv npv cnq
+gbv npv cob
+gbv npv du
+gbv npv ed
+gbv npv frq
+gbv npv lim
+gbv npv occ
+gbv npv perp
+gbv npv rp
+gbv npv type
+gbv shw age
+gbv shw comm
+gbv shw frq
+gbv shw occ
+gbv shw perp
+gbv shw rp
+gbv st age
+gbv st cnq
+gbv st occ
+gbv st perp
+gbv st rp
+gov 10a emp
+gov 10dd acd
+gov eu debt
+gov eu fa
+gov eu nfa
+gov gb
+half-yearly, semesterly
+hbs exp t111
+hbs exp t132
+hlth cd acdr2$dv 1145
+hlth cd aperrto
+hlth cd apyll
+hlth cd dar
+hlth cd iap
+hlth co bedoc
+hlth co dischnr
+hlth co ren
+hlth db emasne
+hlth db emasnt
+hlth db emaspr
+hlth db emaspt
+hlth dhc140$dv 2681
+hlth ehis al1e$dv 1142
+hlth ehis al3e$dv 450
+hlth ehis al3i$dv 461
+hlth ehis am7sa
+hlth ehis am7sh
+hlth ehis bm1e$dv 309
+hlth ehis bm1i$dv 306
+hlth ehis fv3e$dv 1143
+hlth ehis fv3e$dv 462
+hlth ehis hc2
+hlth ehis hc3
+hlth ehis mh1e$dv 463
+hlth ehis mh1i$dv 464
+hlth ehis pe2e$dv 1144
+hlth ehis pe2e$dv 301
+hlth ehis pe3e$dv 296
+hlth ehis sk3e$dv 1127
+hlth ehis sk3e$dv 298
+hlth ehis sk3i$dv 1141
+hlth ehis sk3i$dv 304
+hlth hc dent
+hlth hc phys
+hlth hc phys2
+hlth hlye h
+hlth hlye$dv 2041
+hlth hlye$dv 287
+hlth ps immu
+hlth ps prev
+hlth ps scre
+hlth rs bdltc
+hlth rs grd2$dv 2825
+hlth rs prs2$dv 2824
+hlth sha11 hc$dv 2841
+hlth sha11 hf$dv 2821
+hlth sha11 hf$dv 2826
+hlth silc 08$dv 1146
+hlth silc 08b r
+hlth silc 11$dv 1148
+hsw ac4
+hsw ac8$dv 386
+hsw aw inasz
+hsw aw inaws
+hsw aw nbosv
+hsw aw nnasv
+hsw aw nnasz
+hsw aw nnaws
+hsw aw ws2
+hsw hp disnu
+hsw hp nuse
+hsw ij edse
+hsw ij isna
+hsw ij nuse
+hsw ij svhos
+hsw ij svnia
+hsw ij svsha
+hsw ind
+hsw occ cnr
+hsw occ ina
+htec si exp4
+icw car 01
+icw car 02
+icw car 04
+icw pov 03
+icw sr 02
+icw sr 03
+icw sr 05
+icw sr 09
+icw sr 10
+icw sr 12
+icw sr 13
+icw sr 14
+icw sr 15
+icw sr 16
+ilc camdforg0
+ilc camdothg0
+ilc camnforall
+ilc camnforg0
+ilc camnothall
+ilc camnothg0
+ilc caparents
+ilc chmd01
+ilc chmd02
+ilc chmd03
+ilc chmd04
+ilc chsb01
+ilc chsb02
+ilc di11 r
+ilc di11g
+ilc di11h
+ilc di11i
+ilc di12
+ilc di12b
+ilc di12c
+ilc di18
+ilc hch15
+ilc hch16$dv 2262
+ilc hch17$dv 2261
+ilc hch18$dv 2263
+ilc hch19$dv 2264
+ilc igtp03
+ilc igtp04
+ilc iw02$dv 2665
+ilc iw04
+ilc iw06
+ilc iw07
+ilc li02$dv 548
+ilc li11$dv 2662
+ilc li12
+ilc li13
+ilc li21$dv 2663
+ilc li22$dv 2664
+ilc li33
+ilc li33$dv 1983
+ilc li34
+ilc li34$dv 1982
+ilc li48
+ilc li70
+ilc lk11
+ilc lvhd01
+ilc lvhd02
+ilc lvhd03
+ilc lvhd04
+ilc lvhd06
+ilc lvhl11n$dv 1181
+ilc lvhl21n
+ilc lvhl23n
+ilc lvhl30$dv 1323
+ilc lvhl36
+ilc lvho03h
+ilc lvho04d
+ilc lvho04n
+ilc lvho05a$dv 1185
+ilc lvho05a$dv 2685
+ilc lvho05c
+ilc lvho05d
+ilc lvho07 r
+ilc lvho07b
+ilc lvho07c
+ilc lvho07d
+ilc lvho08b
+ilc lvho50c
+ilc lvho50d
+ilc lvph01
+ilc lvph02h
+ilc lvph03
+ilc lvph05
+ilc lvps08$dv 1041
+ilc lvps20
+ilc mddd04b$dv 2721
+ilc mddd11$dv 655
+ilc mddd17
+ilc mddd21
+ilc mdes01 r
+ilc mdes03 r
+ilc mdes03$dv 2702
+ilc mdes04 r
+ilc mdes05 r
+ilc mdho02c
+ilc mdho03c
+ilc mdho06a$dv 1184
+ilc mdho06a$dv 2701
+ilc mdho06d
+ilc mdho06q
+ilc mdsd03$dv 1165
+ilc mdsd06
+ilc mdsd07$dv 2621
+ilc mdsd08
+ilc mdsd09
+ilc mdsd18
+ilc odbt01
+ilc odbt02
+ilc odbt03
+ilc odbt04
+ilc odbt05
+ilc odbt06
+ilc odbt07
+ilc odbt08
+ilc odbt09
+ilc odbt12
+ilc odbt13
+ilc odbt14
+ilc pecs01
+ilc peps01n$dv 1161
+ilc peps07
+ilc peps07n
+ilc peps11
+ilc peps11n
+ilc peps13n
+ilc pnp11
+ilc pnp12
+ilc pnp13
+ilc pnp14
+ilc pnp2
+ilc pnp2$dv 1988
+ilc pnp3
+ilc pns2
+ilc pns4
+ilc pns5
+ilc pw01$dv 2761
+ilc pw01b$dv 2749
+ilc pw01b$dv 2751
+ilc pw01b$dv 2781
+ilc pw03$dv 2762
+ilc pw05b$dv 2766
+ilc pw08$dv 426
+ilc pw12$dv 2547
+ilc pw14
+ilc pw15$dv 2750
+ilc sbjp02
+ilc sbjp04
+ilc sbjp05
+ilc scp01$dv 1061
+ilc scp03$dv 1062
+ilc scp03$dv 552
+ilc scp06$dv 2742
+ilc scp07$dv 1064
+ilc scp10$dv 2744
+ilc scp12$dv 2746
+ilc scp15$dv 433
+ilc scp17$dv 434
+ilc scp19$dv 312
+ilc scp19$dv 313
+ilc scp20$dv 2747
+ilc scp21$dv 436
+ilc scp22$dv 2441
+ilc scp31$dv 2383
+ilc scp33$dv 2541
+ilc scp34$dv 2542
+ilc scp37$dv 2543
+ilc scp38$dv 2388
+ilc scp38$dv 2544
+ilc scp39$dv 2548
+ilc scp40$dv 2549
+ipr da gdp
+ipr da pop
+ipr da tot
+ipr da typ
+ipr dfa tot
+ipr dr tot
+ipr ta gdp
+ipr ta ntr
+ipr ta pop
+ipr ta tot
+ipr ta typ
+irt h cgby a
+irt h cgby m
+irt h cgby q
+irt h ddmr a
+irt h ddmr q
+irt h euryld a
+irt h mr3 a
+irt h mr3 q
+irt lt gby10 a
+irt lt gby10 m
+irt lt mcby a
+irt lt mcby q
+irt st a
+isoc bde15ag
+isoc bde15ap
+isoc cbs
+isoc ci ac i$dv 1043
+isoc ci ac i$dv 1122
+isoc ci cm h$dv 507
+isoc ci in h$dv 512
+isoc cisci f$dv 536
+isoc r cux i
+isoc sk cskl i$dv 266
+isoc sk dskl i$dv 317
+isoc sk oja2
+isoc ski itsex
+isoc sks itspa
+isoc sks itspa$dv 1847
+isoc sks itsps
+isoc sks itsps$dv 1846
+isoc sks itspt
+iss 18bfbck
+iss 18bfmmag
+iss 18bfmove
+iss 18sojobn
+iss 21covt
+iss 21gvcba
+iss 21gvcms
+iss 21gvcsa
+iss 21sopref
+iss stat
+iww ac nbac
+iww ec employ
+iww ec empsex
+iww ec ent c
+iww ec ent n
+iww ec invest
+iww eq age loa
+iww eq power lo
+iww go actygo07
+iww if hordim
+iww if infrastr
+iww tf vetf
+lan lcv arti
+lan settl
+lc lci r1 cow
+lc lci r2 cow
+lfsa eppgai$dv 577
+lfsa ergaed$dv 319
+lfsa ewpeve$dv 604
+lfsa ewpnig$dv 605
+lfsa ewpsat$dv 606
+lfsa ewpsun$dv 607
+lfsa ipga$dv 610
+lfsa qoe 3a2$dv 608
+lfsa urgaed$dv 611
+lfsi dwl a
+lfsi jhh a
+lfsi long e08
+lfsi long e09
+lfso 06finiagps
+lfso 10fvaredu$dv 609
+lfso 12agepens
+lfso 12earlyret
+lfso 12penstyp
+lfso 12reduchrs
+lfso 12worklong
+lfso 14loq$dv 615
+lfso 17seworg
+lfst dpw 01
+lfst dpw 02
+lfst dpw 03
+lfst dpw 04
+lfst dpw 05
+lfst dpw 06
+lfst dpw 07
+lfst dpw 08
+lfst dpw 09
+lfst dpw 10
+lfst dpw 11
+lfst hheredch$dv 2683
+lfst hhwahchi$dv 1872
+lfst r edatd 16
+lfst r edatd 22
+lfst r lmdgeg
+lfst r lmdltu
+mar mg aa cwh
+mar mg aa pwhd
+mar mg am cvh
+mar mg am cwt
+mar mg am pvh
+mar mp aa cph
+mar mp aa pphd
+mar mp am cft
+mar pa qm me
+mar pa qm mt
+mar qg qm cwh
+mar qg qm ewhd
+mar qg qm ewhg
+mar qg qm ewhk
+mar qg qm ewht
+mar qg qm pvh
+mar qg qm pwh
+mar qg qm pwhc
+mar qg qm pwhl
+mar qg qm pwhr
+mar sg am cv
+mar sg am cwd
+mar sg am ewx
+mar sg am pwb
+mar sg am pwc
+mar sg am pwl
+mar sg am pwr
+mar tp go
+mar tp pa
+mar tp sss
+mar v est
+med ag1
+med ag2
+med ag31
+med ag32
+med ag33
+med ag34
+med ag41
+med ag42
+med ag50
+med ag51
+med air1
+med air2
+med air3
+med air4
+med air5
+med ec0
+med ec1
+med ec2
+med ec3
+med ec4
+med ec5
+med ec6
+med ec7
+med ec8
+med ec9
+med eg all
+med eg10
+med eg20
+med eg30
+med en1
+med en2
+med en21
+med en22
+med en23
+med en24
+med en25
+med en3
+med en41
+med en42
+med en43
+med en44
+med en46
+med en47
+med en51
+med en52
+med en53
+med en61
+med en62
+med en63
+med ma1
+med ma2
+med ma3
+med ma4
+med ma5
+med ma6
+med ma7
+med ps111
+med ps112
+med ps115
+med ps12
+med ps21
+med ps22
+med ps23
+med ps24
+med ps25
+med ps26
+med ps311
+med ps312
+med ps313
+med ps32
+med ps33
+med ps411
+med ps412
+med ps413
+med ps414
+med ps421
+med ps422
+med ps423
+med ps43
+med ra1
+med ra2
+med ra3
+med ra4
+med ra5
+med rd1
+med rd2
+med rd3
+med rd4
+med rd5
+med rd6
+med rd7
+med to11
+med to12
+med to13
+med to21
+med to22
+met d3dens
+met ipr da
+met ipr dapop
+met ipr dfa
+met ipr dfapop
+met ipr dr
+migr asyaccm$dv 961
+migr asyapp1mp
+migr asyapp1pc
+migr asyapp1up
+migr asyappctza$dv 618
+migr asydec1p
+migr asydec1pc
+migr asydecfp
+migr asymrca
+migr asypenctzm$dv 723
+migr asyresa$dv 629
+migr asytpfa$dv 1381
+migr asytpfm$dv 1383
+migr asytpfpop
+migr asytpfq$dv 1382
+migr asytpsm$dv 1384
+migr asytpspop
+migr asywitha$dv 1021
+migr eilpop
+migr eilretpc
+migr eiord$dv 1261
+migr eirtn$dv 1241
+migr emi5nxt
+migr imm12prv
+migr reschst$dv 1285
+migr resfpc
+migr reslas$dv 1283
+migr resltra$dv 1284
+migr respop
+migr resspc
+monthly
+nama 10 fte
+nama 10 pp
+nama 10r 3empers$dv 1564
+nama 10r 3gdp$dv 1562
+nama 10r 3gva$dv 1563
+not applicable
+nrg 125m
+nrg 135m
+nrg bal s$dv 650
+nrg chdd a
+nrg d sercv
+nrg dhdc c
+nrg dhdc e
+nrg dhdc n
+nrg ind di
+nrg ind ep
+nrg ind esr
+nrg ind ffgae
+nrg ind id3cf
+nrg ind idogas
+nrg ind ren
+nrg inf stcs
+nrg pc 202 v
+nrg pc 203 v
+nrg pc 204 v
+nrg pc 205 v
+nrg pc 206
+orch grapes3
+orch olives1
+orch olives2
+orch olives3
+orch total
+org aprod h
+org aqtspec
+org cpreact h
+org cropar h2
+pipe ec employ
+pipe ec ent
+pipe ec invest
+pipe if capac
+pipe if lenght
+prc colc ext
+prc colc nat
+prc colc pppnat
+prc colc ppptot
+prc colc surf
+prc colc tot
+prc hicp cow
+prc hpi hsna
+prc hpi hsva
+prc hpi inw
+prc ppp conv
+prc rem avg
+prc rem cs
+prc rem gdp
+prc rem idx
+prc rem nr
+qoe ewcs 1c3
+qoe ewcs 3c3
+qoe ewcs 4a5
+qoe ewcs 6 1
+qoe ewcs 6 3
+qoe ewcs 6 4
+qoe ewcs 6 5
+qoe ewcs 6 6
+qoe ewcs 7a1
+qoe ewcs 7a2
+qoe ewcs 7a3
+qoe ewcs 7b1
+qoe ewcs 7b2
+qoe ewcs 7b3
+qoe ewcs 7b4
+qoe ewcs 7b5
+quarterly
+rail ac catnmbr
+rail ac dnggood
+rail ec emplo s
+rail ec ent
+rail ec expend
+rail eq pa csb
+rail eq pa cty
+rail eq pa nca
+rail eq pa nty
+rail eq trset
+rail eq vans
+rail go consgmt
+rail go quartal
+rail go total
+rail if line sp
+rail if lvlcros
+rail if tracks
+rail if traff
+rail pa nbcar
+rail pa nbpass
+rail pa speed
+rail pa total
+rail tf hauseat
+rail tf hautkmo
+rail tf ns at
+rail tf ns be
+rail tf ns dk
+rail tf ns ee
+rail tf ns el
+rail tf ns fi
+rail tf ns hu
+rail tf ns ie
+rail tf ns li
+rail tf ns lt
+rail tf ns lu
+rail tf ns lv
+rail tf ns no
+rail tf ns pt
+rail tf ns si
+rail tf ns sk
+rail tf ns tr
+rail tf ns10 at
+rail tf ns10 be
+rail tf ns10 bg
+rail tf ns10 dk
+rail tf ns10 ee
+rail tf ns10 el
+rail tf ns10 fi
+rail tf ns10 hr
+rail tf ns10 hu
+rail tf ns10 ie
+rail tf ns10 li
+rail tf ns10 lt
+rail tf ns10 lu
+rail tf ns10 lv
+rail tf ns10 mk
+rail tf ns10 no
+rail tf ns10 pt
+rail tf ns10 ro
+rail tf ns10 si
+rail tf ns10 sk
+rail tf ns10 tr
+rail tf ns15 be
+rail tf ns15 bg
+rail tf ns15 cz
+rail tf ns15 dk
+rail tf ns15 ee
+rail tf ns15 fi
+rail tf ns15 hr
+rail tf ns15 hu
+rail tf ns15 ie
+rail tf ns15 li
+rail tf ns15 lt
+rail tf ns15 lu
+rail tf ns15 lv
+rail tf ns15 mk
+rail tf ns15 no
+rail tf ns15 pt
+rail tf ns15 ro
+rail tf ns15 si
+rail tf ns15 sk
+rail tf ns15 tr
+rail tf ns20 bg
+rail tf ns20 cz
+rail tf ns20 dk
+rail tf ns20 ee
+rail tf ns20 el
+rail tf ns20 fi
+rail tf ns20 hr
+rail tf ns20 hu
+rail tf ns20 ie
+rail tf ns20 lt
+rail tf ns20 lu
+rail tf ns20 lv
+rail tf ns20 mk
+rail tf ns20 no
+rail tf ns20 pt
+rail tf ns20 ro
+rail tf ns20 si
+rail tf ns20 sk
+rail tf ns20 tr
+rail tf passmov
+rail tf trainmv
+rd b berdcon
+rd p con
+rd p sen
+road ec empl
+road ec empl s
+road ec entemp
+road ec entveh
+road ec invest
+road eqr bum
+road eqr bussea
+road eqr busveh
+road eqr carbua
+road eqr loralt
+road eqr lsttt
+road eqr mopeds
+road eqr motors
+road eqr semit
+road eqr spurp
+road eqr tracm
+road eqr trail
+road eqr trailn
+road eqr trams
+road eqs busmot h
+road eqs bussea
+road eqs busveh
+road eqs carage
+road eqs caralt
+road eqs carhab
+road eqs motorc
+road eqs roaene h
+road eqs semit
+road eqs semitn
+road eqs spurp
+road eqs trail
+road eqs trailn
+road eqs trams
+road eqs unlweig
+road go ca c
+road go ca d c
+road go ca d ha
+road go na rl3g$dv 1581
+road go na ru3g$dv 1582
+road if barea
+road if bsurfa
+road if motorwa
+road pa mov
+road tert go
+road tf buscoa
+sbs cre gbneea
+sbs cre gneea
+sbs cre pacc
+sbs cre pcpay
+sbs cre pcrec
+sbs cre pintpay
+sbs cre pintrex
+sbs cre ploans
+sbs part wtstck
+sbs pen 7b1
+sbs pen 7b2
+sbs pen 7c
+sbs pen 7e
+sbs pen enteea
+sdg 01 10
+sdg 01 10a
+sdg 01 20
+sdg 01 20a
+sdg 01 31
+sdg 01 40
+sdg 01 41
+sdg 01 50
+sdg 02 10
+sdg 02 20
+sdg 02 30
+sdg 02 40
+sdg 02 53
+sdg 02 60
+sdg 03 11
+sdg 03 20
+sdg 03 30
+sdg 03 41
+sdg 03 42
+sdg 03 60
+sdg 03 70
+sdg 04 10
+sdg 04 10a
+sdg 04 20
+sdg 04 40
+sdg 04 60
+sdg 05 10
+sdg 05 20
+sdg 05 30
+sdg 05 40
+sdg 05 50
+sdg 05 60
+sdg 06 10
+sdg 06 20
+sdg 06 30
+sdg 06 40
+sdg 06 50
+sdg 06 60
+sdg 07 10
+sdg 07 11
+sdg 07 20
+sdg 07 30
+sdg 07 40
+sdg 07 50
+sdg 07 60
+sdg 08 10
+sdg 08 11
+sdg 08 20
+sdg 08 20a
+sdg 08 30
+sdg 08 30a
+sdg 08 40
+sdg 08 60
+sdg 09 40
+sdg 09 50
+sdg 09 60
+sdg 09 70
+sdg 10 10
+sdg 10 20
+sdg 10 30
+sdg 10 41
+sdg 10 50
+sdg 10 60
+sdg 11 11
+sdg 11 20
+sdg 11 31
+sdg 11 32
+sdg 11 52
+sdg 11 60
+sdg 12 10
+sdg 12 21
+sdg 12 31
+sdg 12 51
+sdg 12 61
+sdg 13 31
+sdg 13 40
+sdg 13 50
+sdg 13 60
+sdg 13 70
+sdg 13 70a
+sdg 14 10
+sdg 14 21
+sdg 14 30
+sdg 14 40
+sdg 14 50
+sdg 14 60
+sdg 15 10
+sdg 15 20
+sdg 15 42
+sdg 15 50
+sdg 15 60
+sdg 15 61
+sdg 16 10
+sdg 16 20
+sdg 16 30
+sdg 16 40
+sdg 16 50
+sdg 16 60
+sdg 16 70
+sdg 17 10
+sdg 17 20
+sdg 17 40
+sdg 17 50
+sdg 17 60
+spr net ben$dv 1622
+sprt emp age
+sprt emp sex
+sprt pcs qnt
+sts tot prod a
+tag00001
+tag00007
+tag00014
+tag00016
+tag00017
+tag00018
+tag00020
+tag00027
+tag00029
+tag00037
+tag00038
+tag00039
+tag00040
+tag00041
+tag00042
+tag00043
+tag00044
+tag00045
+tag00046
+tag00047
+tag00048
+tag00049
+tag00050
+tag00051
+tag00052
+tag00053
+tag00054
+tag00055
+tag00056
+tag00057
+tag00059
+tag00060
+tag00061
+tag00062
+tag00063
+tag00064
+tag00065
+tag00066
+tag00067
+tag00068
+tag00069
+tag00070
+tag00071
+tag00075
+tag00076
+tag00083
+tag00093
+tag00094
+tag00100
+tag00101
+tag00102
+tag00103
+tag00115
+tag00116
+tag00120
+tag00121
+tag00122
+tag00123
+tag00124
+tag00125
+tai04
+tai07
+tai08
+tai09
+tai10
+tai11
+tec00001
+tec00009
+tec00010
+tec00011
+tec00013
+tec00021
+tec00023
+tec00027
+tec00033
+tec00038
+tec00039
+tec00040
+tec00041
+tec00042
+tec00097
+tec00104
+tec00105
+tec00106
+tec00107
+tec00110
+tec00112
+tec00113
+tec00114
+tec00115
+tec00116
+tec00118
+tec00120
+tec00121
+tec00127
+tec00131
+tec00132
+teibp010
+teibp020
+teibp030
+teibp060
+teibp070
+teibs010
+teibs020
+teibs030
+teibs040
+teibs070
+teicp000
+teicp010
+teicp020
+teicp030
+teicp040
+teicp050
+teicp060
+teicp070
+teicp080
+teicp090
+teicp100
+teicp110
+teicp120
+teicp200
+teicp210
+teicp220
+teicp230
+teicp240
+teicp250
+teicp260
+teicp270
+teicp280
+teicp290
+teiet010
+teiet020
+teiet030
+teiet040
+teiet050
+teiet060
+teiet070
+teiet110
+teiet120
+teiet130
+teiet140
+teiet150
+teiet160
+teiet170
+teiet210
+teiet215
+teiet300
+teiet310
+teiis010
+teiis011
+teiis012
+teiis013
+teiis014
+teiis015
+teiis016
+teiis020
+teiis030
+teiis040
+teiis050
+teiis060
+teiis070
+teiis080
+teiis090
+teiis100
+teiis110
+teiis120
+teiis130
+teiis140
+teiis150
+teiis160
+teiis170
+teiis180
+teiis190
+teiis200
+teiis210
+teiis220
+teiis230
+teiis240
+teiis250
+teiis260
+teiis270
+teiis400
+teiis500
+teiis521
+teiis550
+teilm010
+teilm011
+teilm012
+teilm020
+teilm021
+teilm022
+teilm100
+teimf040
+teimf050
+teimf060
+teimf100
+teimf200
+teimf250
+teina010
+teina011
+teina020
+teina021
+teina030
+teina031
+teina040
+teina041
+teina050
+teina080
+teina090
+teina100
+teina110
+teina200
+teina205
+teina210
+teina225
+teina230
+teina400 r2
+teina402 r2
+teina404 r2
+teina406 r2
+teina408 r2
+teina410 r2
+teina412 r2
+teina414 r2
+teina416 r2
+teina418 r2
+teina420 r2
+teina422 r2
+teina424 r2
+teina426 r2
+teina428 r2
+teina430 r2
+teina432 r2
+teina434 r2
+teina436 r2
+teina438 r2
+teina440 r2
+teina442 r2
+teina444 r2
+teina446 r2
+teina500
+teina510
+teina515
+teina520
+ten00001
+ten00003
+ten00006
+ten00030
+ten00062
+ten00063
+ten00110
+ten00117
+ten00118
+ten00119
+ten00120
+ten00135
+ten00136
+ten00137
+ten00138
+ten00139
+ten00141
+tepsr lm210
+tepsr lm230
+tepsr lm410
+tepsr lm411
+tepsr lm412
+tepsr lm420
+tepsr lm430
+tepsr lm440
+tepsr sp110
+tepsr sp210
+tepsr sp310
+tepsr sp320
+tepsr sp410
+tepsr spi110
+tepsr spi120
+tepsr spi130
+tepsr wc130
+tepsr wc230
+tepsr wc310
+tesem010
+tesem020
+tesem030
+tesem040
+tesem050
+tesem060
+tesem070
+tesem080
+tesem090
+tesem100
+tesem120
+tesem130
+tesem140
+tesem160
+tesem170
+tesem180
+tesem190
+tesem200
+tesem210
+tesem220
+tesem240
+tesov092
+tesov110
+tesov190
+tesov250
+tespm020
+tespm030
+tespm040
+tespm060
+tespm070
+tespm080
+tespm090
+tespm100
+tespm110
+tespm120
+tespm130
+tespm140
+tespm151
+tespn010
+tespn020
+tespn060
+tespn070
+tespn080
+tespn090
+tespn100
+tespn110
+tespn120
+tespn240
+tespn250
+tespn260
+tespn270
+tessi010
+tessi014
+tessi020
+tessi022
+tessi030
+tessi080
+tessi082
+tessi121
+tessi125
+tessi126
+tessi150
+tessi160
+tessi161
+tessi162
+tessi163
+tessi164
+tessi165
+tessi166
+tessi170
+tessi171
+tessi172
+tessi173
+tessi174
+tessi175
+tessi176
+tessi177
+tessi178
+tessi180
+tessi190
+tessi191
+tessi220
+tessi250
+tessi291
+tessi292
+tessi293
+tessi294
+tessi295
+tessi300
+tessi301
+tessi302
+tessi303
+tet00001
+tet00002
+tet00003
+tet00004
+tet00011
+tet00012
+tet00013
+tet00028
+tet00037
+tet00038
+tet00065
+tet00066
+tet00071
+tgs00027
+tgs00047
+tgs00052
+tgs00064
+tgs00075
+tgs00076
+tgs00077
+tgs00078
+tgs00103
+tgs00104
+tgs00107
+tgs00108
+tin00028
+tin00074
+tin00085
+tin00086
+tin00091
+tin00092
+tin00093
+tin00094
+tin00095
+tin00096
+tin00098
+tin00099
+tin00101
+tin00102
+tin00103
+tin00110
+tin00111
+tin00116
+tin00127
+tin00134
+tin00140
+tin00171
+tin00172
+tin00173
+tin00174
+tin00175
+tin00176
+tin00180
+tin00181
+tin00185
+tin00186
+tin00195
+tin00196
+tipsbd10
+tipsbd20
+tipsbd30
+tipsbd40
+tipsbp10
+tipsbp100
+tipsbp17
+tipsbp18
+tipsbp20
+tipsbp22
+tipsbp70
+tipsbp90
+tipsen10
+tipser10
+tipser11
+tipser12
+tipser13
+tipser20
+tipsex10
+tipsex11
+tipsex12
+tipsex13
+tipsex20
+tipsfs10
+tipsfs20
+tipsfs30
+tipsgo10
+tipsho10
+tipsho20
+tipsho30
+tipsho40
+tipsho50
+tipsii10
+tipsii12
+tipsii15
+tipsii18
+tipsii20
+tipsii21
+tipsii30
+tipsii40
+tipsii50
+tipslc10
+tipslc20
+tipslc30
+tipslc40
+tipslm10
+tipslm100
+tipslm13
+tipslm15
+tipslm16
+tipslm20
+tipslm50
+tipslm60
+tipslm70
+tipslm80
+tipslm90
+tipsna20
+tipsna30
+tipsna40
+tipsna50
+tipsna51
+tipsna60
+tipsna62
+tipsna70
+tipspc10
+tipspc13
+tipspc14
+tipspc15
+tipspc16
+tipspc20
+tipspc23
+tipspc24
+tipspc25
+tipspc26
+tipspd10
+tipspd13
+tipspd14
+tipspd15
+tipspd16
+tipspd20
+tipspd22
+tipspd23
+tipspd24
+tipspd25
+tipspd26
+tipspd30
+tipsst10
+tipsun10
+tipsun20
+tipsun30
+tour ce oam
+tour ce oasc
+tps00001
+tps00003
+tps00005
+tps00014
+tps00017
+tps00019
+tps00024
+tps00027
+tps00028
+tps00029
+tps00044
+tps00045
+tps00046
+tps00048
+tps00053
+tps00065
+tps00066
+tps00071
+tps00073
+tps00098
+tps00099
+tps00100
+tps00101
+tps00102
+tps00103
+tps00104
+tps00105
+tps00108
+tps00116
+tps00119
+tps00122
+tps00125
+tps00128
+tps00131
+tps00134
+tps00137
+tps00140
+tps00143
+tps00146
+tps00149
+tps00150
+tps00151
+tps00152
+tps00155
+tps00157
+tps00159
+tps00165
+tps00167
+tps00170
+tps00171
+tps00172
+tps00173
+tps00175
+tps00176
+tps00177
+tps00178
+tps00181
+tps00182
+tps00184
+tps00185
+tps00186
+tps00189
+tps00190
+tps00191
+tps00192
+tps00193
+tps00194
+tps00195
+tps00197
+tps00198
+tps00199
+tps00202
+tps00203
+tps00204
+tps00205
+tps00206
+tps00208
+tps00215
+tps00216
+tps00217
+tqoe3a5
+tqoe3b4
+tqoe4a3
+tran hv frmod
+tran hv frtra
+tran hv ms frmod
+tran hv ms psmod
+tran hv pstra
+tran im mosp
+tran im mospt
+tran im uiww
+tran im umar
+tran im umod
+tran im urail
+tran im uroad
+tran sf marv
+tran sf marves
+tran sf railac
+tran sf raildg
+tran sf railsu
+tran sf roadro
+trng aes 186
+trng aes 187
+trng any3
+trng any4
+trng any5
+trng cvt 12s
+trng cvt 13s
+trng cvt 21n1
+trng cvt 21n2
+trng cvt 21s
+trng cvt 22n1
+trng cvt 22n2
+trng cvt 22s
+trng cvt 23n1
+trng cvt 23n2
+trng cvt 23s
+trng cvt 24n1
+trng cvt 24n2
+trng cvt 24s
+trng cvt 25n1
+trng cvt 25n2
+trng cvt 25s
+trng cvt 26n1
+trng cvt 34n1
+trng cvt 34n2
+trng cvt 34s
+trng fed3
+trng inf3
+trng lfs 02$dv 2221
+trng nfe13
+trng nfe14
+trng nfe15
+trng nfe16
+trng nfe18
+trng nfe2
+trng nfe4
+trng nfe5
+trng nfe6
+trng nfe7
+tsc00001
+tsc00003
+tsc00005
+tsc00006
+tsc00007
+tsc00008
+tsc00011
+tsc00025
+tsc00031
+ttr00001
+ttr00002
+ttr00003
+ttr00005
+ttr00006
+ttr00007
+ttr00009
+ttr00011
+ttr00012
+ttr00015
+ttr00016
+tus 00alone
+tus 00educ$dv 571
+tus 00meal
+tus 00npaycare
+tus 00npaywork
+tus 00screen
+tus 00simuact
+tus 00travel
+tus 00work$dv 671
+urt 10r 3gdp$dv 1584
+urt ipr da
+urt ipr dapop
+urt ipr dfa
+urt ipr dfapop
+urt ipr dr
+urt lfe3emprt$dv 1586
+vit bs4 cy
+vit bs4 lu
+yth demo 030
+yth educ 020
+yth educ 030

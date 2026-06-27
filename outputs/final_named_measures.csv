@@ -1,0 +1,798 @@
+term,cluster,domain_name
+annual,5,Transport
+apri lrnt h,5,Transport
+apri pi95 vwia,5,Transport
+apri pi95 vwpa,5,Transport
+avia ec emp arp,6,Economics
+avia ec emp ent,6,Economics
+avia ec enterp,6,Economics
+avia eq arc age,5,Transport
+avia eq arc agereg,5,Transport
+avia if arp,5,Transport
+avia tpgo,5,Transport
+avia tppa,5,Transport
+cei pc050,5,Transport
+cei srm010,2,Agriculture
+cei wm010,2,Agriculture
+cei wm011,2,Agriculture
+cei wm020,2,Agriculture
+cei wm060,2,Agriculture
+demo r pjanind3$dv 1561,5,Transport
+edat lfse 03$dv 598,7,Education
+edat lfse 14$dv 1864,7,Education
+edat lfse 14$dv 356,7,Education
+edat lfse 20$dv 1101,7,Education
+edat lfso 00t2,7,Education
+edat lfso 00t4,7,Education
+edat lfso 00t5,7,Education
+egi em1,5,Transport
+egi em2,5,Transport
+egi em3,5,Transport
+egi rd1,5,Transport
+egi so1,5,Transport
+egi tr1,5,Transport
+egi tr2,5,Transport
+egi tr3,5,Transport
+egi tr4,5,Transport
+egi tr5,5,Transport
+egi va1,5,Transport
+egr conc,6,Economics
+egr emp,6,Economics
+egr mne,5,Transport
+egr mne n2sc,5,Transport
+enpe apro cpnh1,6,Economics
+enpe apro mt ls,6,Economics
+enpe apro mt p,6,Economics
+enpe bop c6 a,6,Economics
+enpe bop iip6,6,Economics
+enpe bop iip6 serv,6,Economics
+enpe cpi,6,Economics
+enpe edat lfse 03,7,Education
+enpe edat lfse 14,7,Education
+enpe educ figdp,6,Economics
+enpe educ uoe enra02,6,Economics
+enpe ef lus main,6,Economics
+enpe ext bal,6,Economics
+enpe ext intro,6,Economics
+enpe fish ca main,6,Economics
+enpe gov 10dd,6,Economics
+enpe hlth exp,6,Economics
+enpe ilc di11,6,Economics
+enpe ilc li01,3,Education
+enpe ilc li09,3,Education
+enpe irt ld,6,Economics
+enpe irt lt gby10,5,Transport
+enpe irt st,6,Economics
+enpe isoc ci ifp fu,6,Economics
+enpe isoc ci in h,6,Economics
+enpe lfsa argaed,7,Education
+enpe lfsa ergan,7,Education
+enpe lfsa urgan,7,Education
+enpe lfsa urgan2,7,Education
+enpe mar go,6,Economics
+enpe mon res,6,Economics
+enpe nama 10 a10,6,Economics
+enpe nama 10 gdp,6,Economics
+enpe nama 10 gdp ea,6,Economics
+enpe nama 10 lp,6,Economics
+enpe nama 10 pe,6,Economics
+enpe nama 10 ulc,6,Economics
+enpe rail go,6,Economics
+enpe rail if,6,Economics
+enpe rd e gerdfund,6,Economics
+enpe reg area3,6,Economics
+enpe road eqs car,6,Economics
+enpe road go,6,Economics
+enpe road if,6,Economics
+enpe road pa,6,Economics
+enpe spr exp,6,Economics
+enpe sts incopr,6,Economics
+enpe sts inppd,6,Economics
+enpe sts trtu,6,Economics
+enpe sts trtu1,6,Economics
+enpe tour cap nat,6,Economics
+enpe tour dem tttot,6,Economics
+enpe tour occ arnat,6,Economics
+enps apro cpnh1,6,Economics
+enps apro mt ls,6,Economics
+enps apro mt p,6,Economics
+enps avia fr,6,Economics
+enps avia if,6,Economics
+enps avia pa,6,Economics
+enps avia typ,6,Economics
+enps bop iip6,6,Economics
+enps cpi,6,Economics
+enps demo dens,6,Economics
+enps demo frate1,6,Economics
+enps demo gind,6,Economics
+enps demo infant,6,Economics
+enps demo mlexpec,6,Economics
+enps demo nind,6,Economics
+enps demo pjangry,6,Economics
+enps demo under5,6,Economics
+enps edat lfse3,7,Education
+enps edat lfse4,7,Education
+enps educ comprate,6,Economics
+enps educ compyr,6,Economics
+enps educ enrate,6,Economics
+enps educ figdp,6,Economics
+enps educ ltr,6,Economics
+enps educ parity,6,Economics
+enps ef lus main,6,Economics
+enps env air emis,6,Economics
+enps env wasacc,6,Economics
+enps env wasgenh,6,Economics
+enps env wasgenm,6,Economics
+enps env wasgenp,6,Economics
+enps env wastrt,6,Economics
+enps env wat abs,6,Economics
+enps env wat cat,6,Economics
+enps env wat cov,6,Economics
+enps ww con,6,Economics
+enps fish aq2a,6,Economics
+enps fish ca main,6,Economics
+enps gov 10dd,6,Economics
+enps gov 10dde,6,Economics
+enps ilc di11,6,Economics
+enps ilc natln,6,Economics
+enps ilc sanit,6,Economics
+enps ilc secure,6,Economics
+enps lfsa argaed,7,Education
+enps lfsa egaps,7,Education
+enps lfsa ergan,7,Education
+enps lfsa pganws,7,Education
+enps lfsa urgan,7,Education
+enps mar eq1000,6,Economics
+enps mar eq300,6,Economics
+enps mar eqton,6,Economics
+enps mar frdir,6,Economics
+enps mar padir,6,Economics
+enps mar por,6,Economics
+enps nama 10 a10,6,Economics
+enps nama 10 gdp,6,Economics
+enps nama 10 gdp ea,6,Economics
+enps nrg bal c,6,Economics
+enps nrg bal c1,6,Economics
+enps rail eq,6,Economics
+enps rail fr,6,Economics
+enps rail if,6,Economics
+enps rail pa,6,Economics
+enps reg area3,6,Economics
+enps road eqs car,6,Economics
+enps road go,6,Economics
+enps road if,6,Economics
+enps tour border,6,Economics
+enps tour cap nat,6,Economics
+enps tour cap natb,6,Economics
+enps tour dem tttot,6,Economics
+enps tour occ arnat,6,Economics
+enps tour occ ninat,6,Economics
+enps tran sf r,6,Economics
+env waspb,6,Economics
+env waspcb,6,Economics
+env wat pop,5,Transport
+eq fer05,5,Transport
+eq mor06,5,Transport
+eq pop02,5,Transport
+eq pop03,5,Transport
+eq pop04,5,Transport
+ert bil conv a,6,Economics
+ert bil eur a$dv 841,8,Healthcare Services
+ert bil eur a$dv 861,8,Healthcare Services
+ert h eur a,5,Transport
+for area,5,Transport
+for awu,5,Transport
+for profnc,5,Transport
+for protect,5,Transport
+for secwpp,5,Transport
+for vol,5,Transport
+gbv,5,Transport
+ipv,5,Transport
+frq,5,Transport
+lim,5,Transport
+occ,5,Transport
+rp,5,Transport
+type,5,Transport
+npv,5,Transport
+age,5,Transport
+cnq,5,Transport
+cob,5,Transport
+du,5,Transport
+ed,5,Transport
+perp,5,Transport
+semesterly,5,Transport
+hbs exp t111,8,Healthcare Services
+hbs exp t132,8,Healthcare Services
+cd acdr2$dv 1145,3,Education
+aperrto,5,Transport
+appyll,5,Transport
+dar,5,Transport
+iap,5,Transport
+bedoc,5,Transport
+dischnr,5,Transport
+ren,5,Transport
+emasne,5,Transport
+emasnt,5,Transport
+emaspr,5,Transport
+emaspt,5,Transport
+al1e$dv 1142,8,Healthcare Services
+hlth ehis al3e$dv,8,Healthcare Services
+hlth ehis al3i$dv,8,Healthcare Services
+hlth ehis am7sa,8,Healthcare Services
+hlth ehis am7sh,8,Healthcare Services
+hlth ehis bm1e$dv,8,Healthcare Services
+hlth ehis bm1i$dv,8,Healthcare Services
+hlth ehis fv3e$dv,8,Healthcare Services
+hlth ehis fv3e$dv,8,Healthcare Services
+hlth ehis hc2,8,Healthcare Services
+hlth ehis hc3,8,Healthcare Services
+hlth ehis mh1e$dv,8,Healthcare Services
+hlth ehis mh1i$dv,8,Healthcare Services
+hlth ehis pe2e$dv,8,Healthcare Services
+hlth ehis pe2e$dv,8,Healthcare Services
+hlth ehis pe3e$dv,8,Healthcare Services
+hlth ehis sk3e$dv,8,Healthcare Services
+hlth ehis sk3e$dv,8,Healthcare Services
+hlth ehis sk3i$dv,8,Healthcare Services
+hlth ehis sk3i$dv,8,Healthcare Services
+hlth hlye h,8,Healthcare Services
+hlth hlye$dv,8,Healthcare Services
+hlth ps immu,5,Transport
+hlth ps prev,8,Healthcare Services
+hlth ps scre,8,Healthcare Services
+hlth rs bdltc,8,Healthcare Services
+hlth rs grd2$dv,8,Healthcare Services
+hlth rs prs2$dv,8,Healthcare Services
+hlth sha11 hc$dv,8,Healthcare Services
+hlth sha11 hf$dv,8,Healthcare Services
+hlth sha11 hf$dv,8,Healthcare Services
+hlth silc 08$dv,8,Healthcare Services
+hlth silc 08b r,8,Healthcare Services
+hlth silc 11$dv,8,Healthcare Services
+hsw ind,5,Transport
+hsw occ cnr,5,Transport
+hsw occ ina,5,Transport
+icw car 01,5,Transport
+icw car 02,5,Transport
+icw pov 03,5,Transport
+ilc camdforg0,3,Education
+ilc camdothg0,3,Education
+ilc camnforall,3,Education
+ilc camnforg0,3,Education
+ilc camnothall,3,Education
+ilc camnothg0,3,Education
+ilc caparents,3,Education
+ilc chmd01,3,Education
+ilc chmd02,3,Education
+ilc chmd03,3,Education
+ilc chmd04,3,Education
+ilc chsb01,3,Education
+ilc chsb02,3,Education
+ilc di11 r,3,Education
+ilc di11g,3,Education
+ilc di11h,3,Education
+ilc di11i,3,Education
+ilc di12,3,Education
+ilc di12b,3,Education
+ilc di12c,3,Education
+ilc di18,3,Education
+ilc hch15,3,Education
+ilc hch16$dv 2262,3,Education
+ilc hch17$dv 2261,3,Education
+ilc hch18$dv 2263,3,Education
+ilc hch19$dv 2264,3,Education
+ilc igtp03,3,Education
+ilc igtp04,3,Education
+ilc iw02$dv 2665,3,Education
+ilc iw04,3,Education
+ilc iw06,3,Education
+ilc iw07,3,Education
+ilc li02$dv 548,3,Education
+ilc li11$dv 2662,3,Education
+ilc li12,3,Education
+ilc li13,3,Education
+ilc li21$dv 2663,3,Education
+ilc li22$dv 2664,3,Education
+ilc li33,3,Education
+ilc li33$dv 1983,3,Education
+ilc li34,3,Education
+ilc li34$dv 1982,3,Education
+ilc li48,3,Education
+ilc li70,3,Education
+ilc lk11,3,Education
+ilc lvhd01,3,Education
+ilc lvhd02,3,Education
+ilc lvhd03,3,Education
+ilc lvhd04,3,Education
+ilc lvhd06,3,Education
+ilc lvhl11n$dv 1181,3,Education
+ilc lvhl21n,3,Education
+ilc lvhl23n,3,Education
+ilc lvhl30$dv 1323,3,Education
+ilc lvhl36,3,Education
+ilc lvho03h,3,Education
+ilc lvho04d,3,Education
+ilc lvho04n,3,Education
+ilc lvho05a$dv 1185,3,Education
+ilc lvho05a$dv 2685,3,Education
+ilc lvho05c,3,Education
+ilc lvho05d,3,Education
+ilc lvho07 r,3,Education
+ilc lvho07b,3,Education
+ilc lvho07c,3,Education
+ilc lvho07d,3,Education
+ilc lvho08b,3,Education
+ilc lvho50c,3,Education
+ilc lvho50d,3,Education
+ilc lvph01,3,Education
+ilc lvph02h,3,Education
+ilc lvph03,3,Education
+ilc lvph05,3,Education
+ilc lvps08$dv 1041,3,Education
+ilc lvps20,3,Education
+ilc mddd04b$dv 2721,3,Education
+ilc mddd11$dv 655,3,Education
+ilc mddd17,3,Education
+ilc mddd21,3,Education
+ilc mdes03$dv 2702,3,Education
+ilc mdho02c,3,Education
+ilc mdho03c,3,Education
+ilc mdho06a$dv 1184,3,Education
+ilc mdho06a$dv 2701,3,Education
+ilc mdsd03$dv 1165,3,Education
+ilc mdsd06,3,Education
+ilc mdsd07$dv 2621,3,Education
+ilc mdsd08,3,Education
+ilc mdsd09,3,Education
+ilc mdsd18,3,Education
+ilc odbt01,3,Education
+ilc odbt02,3,Education
+ilc odbt03,3,Education
+ilc odbt04,3,Education
+ilc odbt05,3,Education
+ilc odbt06,3,Education
+ilc odbt07,3,Education
+ilc odbt08,3,Education
+ilc odbt09,3,Education
+ilc odbt12,3,Education
+ilc odbt13,3,Education
+ilc odbt14,3,Education
+ilc peps01n$dv 1161,3,Education
+ilc peps07,3,Education
+ilc peps11n,3,Education
+ilc peps13n,3,Education
+ilc pw01$dv 2761,3,Education
+ilc pw01b$dv 2749,3,Education
+ilc pw01b$dv 2751,3,Education
+ipr da gdp,5,Transport
+ipr da pop,5,Transport
+ipr da tot,5,Transport
+ipr da typ,5,Transport
+ipr dr tot,5,Transport
+ipr ta gdp,5,Transport
+ipr ta ntr,5,Transport
+ipr ta pop,5,Transport
+ipr ta tot,5,Transport
+ipr ta typ,5,Transport
+irt lt gby10 m,5,Transport
+irt lt mcby q,5,Transport
+iss 18bfmmag,5,Transport
+iss 21gvcba,5,Transport
+iss 21gvcms,5,Transport
+lfsa eppgai$dv 577,7,Education
+lfsa ergaed$dv 319,7,Education
+lfsa ewpeve$dv 604,7,Education
+lfsa ewpnig$dv 605,7,Education
+lfsa ewpsat$dv 606,7,Education
+lfsa ewpsun$dv 607,7,Education
+lfsa ipga$dv 610,7,Education
+lfso 06finiagps,7,Education
+lfso 10fvaredu$dv 609,7,Education
+lfso 12agepens,7,Education
+lfso 12earlyret,7,Education
+lfso 12penstyp,7,Education
+lfso 12reduchrs,7,Education
+lfso 12worklong,7,Education
+lfso 14loq$dv 615,7,Education
+mar qg qm,5,Transport
+ewhd,5,Transport
+ewhg,5,Transport
+ewhk,5,Transport
+pvh,5,Transport
+pwh,5,Transport
+pwhc,5,Transport
+pwhl,5,Transport
+pwhr,5,Transport
+sg am,5,Transport
+cwd,5,Transport
+ewx,5,Transport
+pwb,5,Transport
+pwc,5,Transport
+pwl,5,Transport
+pwr,5,Transport
+go,5,Transport
+pa,5,Transport
+sss,5,Transport
+med en2,4,Healthcare
+med en21,4,Healthcare
+med en22,4,Healthcare
+med en23,4,Healthcare
+med en24,4,Healthcare
+med en25,4,Healthcare
+med en3,4,Healthcare
+med en41,4,Healthcare
+med en42,4,Healthcare
+med en43,4,Healthcare
+med en44,4,Healthcare
+med en46,4,Healthcare
+med en47,4,Healthcare
+med en51,4,Healthcare
+med en52,4,Healthcare
+med en53,4,Healthcare
+med en61,4,Healthcare
+med en62,4,Healthcare
+med en63,4,Healthcare
+med ra2,4,Healthcare
+med ra3,4,Healthcare
+med ra4,4,Healthcare
+med ra5,4,Healthcare
+med rd1,4,Healthcare
+med rd2,4,Healthcare
+med rd3,4,Healthcare
+med rd4,4,Healthcare
+med rd5,4,Healthcare
+med rd6,4,Healthcare
+med to11,4,Healthcare
+med to12,4,Healthcare
+med to13,4,Healthcare
+med to21,4,Healthcare
+med to22,4,Healthcare
+monthly,5,Transport
+nama 10 fte,5,Transport
+nama 10 pp,5,Transport
+nrg 125m,5,Transport
+nrg 135m,5,Transport
+nrg bal s$dv 650,5,Transport
+nrg chdd a,5,Transport
+nrg d sercv,5,Transport
+nrg dhdc c,5,Transport
+nrg dhdc e,5,Transport
+nrg dhdc n,5,Transport
+nrg dhdc ,5,Transport
+nrg ind di,5,Transport
+nrg ind ep,5,Transport
+nrg ind esr,5,Transport
+nrg ind ffgae,5,Transport
+nrg ind id3cf,5,Transport
+nrg ind idogas,5,Transport
+nrg ind ren,5,Transport
+nrg inf stcs,5,Transport
+nrg pc 202 v,5,Transport
+nrg pc 203 v,5,Transport
+nrg pc 204 v,5,Transport
+nrg pc 205 v,5,Transport
+nrg pc 206,5,Transport
+prc hicp,5,Transport
+prc hpi,5,Transport
+prc ppp,5,Transport
+prc rem,5,Transport
+rail tf ns15,5,Transport
+rail tf ns20,5,Transport
+road ec empl,5,Transport
+road ec empl s,5,Transport
+road ec entemp,6,Economics
+road ec entveh,6,Economics
+road ec invest,5,Transport
+road eqr trailn,5,Transport
+road eqr trams,5,Transport
+road eqs busmot h,5,Transport
+road eqs bussea,5,Transport
+road eqs busveh,5,Transport
+road eqs carage,5,Transport
+road eqs caralt,5,Transport
+road eqs carhab,5,Transport
+road eqs motorc,5,Transport
+road eqs roaene h,5,Transport
+road eqs semit,5,Transport
+road eqs semitn,5,Transport
+road eqs spurp,5,Transport
+road eqs trail,5,Transport
+road eqs trailn,5,Transport
+road eqs trams,5,Transport
+road eqs unlweig,5,Transport
+road go ca c,5,Transport
+road go ca d c,5,Transport
+road go ca d ha,5,Transport
+road go na rl3g$dv 1581,5,Transport
+road go na ru3g$dv 1582,5,Transport
+road if barea,5,Transport
+road if bsurfa,5,Transport
+road if motorwa,5,Transport
+road pa mov,5,Transport
+road tert go,5,Transport
+road tf buscoa,5,Transport
+sdg 02 10,1,Development
+sdg 02 20,1,Development
+sdg 02 30,1,Development
+sdg 02 40,1,Development
+sdg 02 53,1,Development
+sdg 02 60,1,Development
+sdg 03 11,1,Development
+sdg 03 20,1,Development
+sdg 03 30,1,Development
+sdg 03 41,1,Development
+sdg 03 42,1,Development
+sdg 03 60,1,Development
+sdg 03 70,1,Development
+sdg 04 10,1,Development
+sdg 04 10a,1,Development
+sdg 04 20,1,Development
+sdg 04 40,1,Development
+sdg 04 60,1,Development
+sdg 05 10,1,Development
+sdg 05 20,1,Development
+sdg 05 30,1,Development
+sdg 05 40,1,Development
+sdg 05 50,1,Development
+sdg 05 60,1,Development
+sdg 06 10,1,Development
+sdg 06 20,1,Development
+sdg 06 30,1,Development
+sdg 06 40,1,Development
+sdg 06 50,1,Development
+sdg 06 60,1,Development
+sdg 07 10,1,Development
+sdg 07 11,1,Development
+sdg 07 20,1,Development
+sdg 07 30,1,Development
+sdg 07 40,1,Development
+sdg 07 50,1,Development
+sdg 07 60,1,Development
+sdg 08 10,1,Development
+sdg 08 11,1,Development
+sdg 08 20,1,Development
+sdg 08 20a,1,Development
+sdg 08 30,1,Development
+sdg 08 30a,1,Development
+sdg 08 40,1,Development
+sdg 08 60,1,Development
+sdg 09 40,1,Development
+sdg 09 50,1,Development
+sdg 09 60,1,Development
+sdg 09 70,1,Development
+sdg 10 10,1,Development
+sdg 10 20,1,Development
+sdg 10 30,1,Development
+sdg 10 41,1,Development
+sdg 10 50,1,Development
+sdg 10 60,1,Development
+sdg 11 11,1,Development
+sdg 11 20,1,Development
+sdg 11 31,1,Development
+sdg 11 32,1,Development
+sdg 11 52,1,Development
+sdg 11 60,1,Development
+sdg 12 10,1,Development
+sdg 12 21,1,Development
+sdg 12 31,1,Development
+sdg 12 51,1,Development
+sdg 12 61,1,Development
+sdg 13 31,1,Development
+sdg 13 40,1,Development
+sdg 13 50,1,Development
+sdg 13 60,1,Development
+sdg 13 70,1,Development
+sdg 13 70a,1,Development
+sdg 14 10,1,Development
+sdg 14 21,1,Development
+sdg 14 30,1,Development
+sdg 14 40,1,Development
+sdg 14 50,1,Development
+sdg 14 60,1,Development
+sdg 15 10,1,Development
+sdg 15 20,1,Development
+sdg 15 42,1,Development
+sdg 15 50,1,Development
+sdg 15 60,1,Development
+sdg 15 61,1,Development
+sdg 16 10,1,Development
+sdg 16 20,1,Development
+sdg 16 30,1,Development
+sdg 16 40,1,Development
+sdg 16 50,1,Development
+sdg 16 60,1,Development
+sdg 16 70,1,Development
+sdg 17 10,1,Development
+sdg 17 20,1,Development
+sdg 17 40,1,Development
+sdg 17 50,1,Development
+sdg 17 60,1,Development
+sts,5,Transport
+tot,5,Transport
+prod,5,Transport
+tag00101,2,Agriculture
+tag00102,2,Agriculture
+tag00103,2,Agriculture
+tag00115,2,Agriculture
+tag00116,2,Agriculture
+tag00120,2,Agriculture
+tag00121,2,Agriculture
+tag00122,2,Agriculture
+tag00123,2,Agriculture
+tag00124,2,Agriculture
+tag00125,2,Agriculture
+tai04,2,Agriculture
+tai07,2,Agriculture
+tai08,2,Agriculture
+tai09,2,Agriculture
+tai10,5,Transport
+tec00001,2,Agriculture
+tec00009,2,Agriculture
+tec00010,2,Agriculture
+tec00011,2,Agriculture
+tec00013,2,Agriculture
+tec00021,2,Agriculture
+tec00023,2,Agriculture
+tec00027,2,Agriculture
+tec00033,2,Agriculture
+tec00038,2,Agriculture
+tec00039,2,Agriculture
+tec00040,2,Agriculture
+tec00041,2,Agriculture
+tec00042,2,Agriculture
+tec00097,2,Agriculture
+tec00104,2,Agriculture
+tec00105,2,Agriculture
+tec00106,2,Agriculture
+tec00107,2,Agriculture
+tec00110,2,Agriculture
+tec00112,2,Agriculture
+tec00113,2,Agriculture
+tec00114,2,Agriculture
+tec00115,2,Agriculture
+tec00116,2,Agriculture
+tec00118,2,Agriculture
+tec00120,2,Agriculture
+tec00121,2,Agriculture
+tec00127,2,Agriculture
+tec00131,2,Agriculture
+tec00132,2,Agriculture
+teibp000,2,Agriculture
+teicp000,2,Agriculture
+teiet000,2,Agriculture
+teiis011,2,Agriculture
+teiis012,2,Agriculture
+teiis013,2,Agriculture
+teiis014,2,Agriculture
+teiis015,2,Agriculture
+teiis016,2,Agriculture
+teiis020,2,Agriculture
+teiis030,2,Agriculture
+teiis040,2,Agriculture
+teiis050,2,Agriculture
+teiis060,2,Agriculture
+teiis070,2,Agriculture
+teiis080,2,Agriculture
+teiis090,2,Agriculture
+teiis100,2,Agriculture
+teiis110,2,Agriculture
+teiis120,2,Agriculture
+teiis130,2,Agriculture
+teiis140,2,Agriculture
+teiis150,2,Agriculture
+teiis160,2,Agriculture
+teiis170,2,Agriculture
+teiis180,2,Agriculture
+teiis190,2,Agriculture
+teiis200,2,Agriculture
+teiis210,2,Agriculture
+teiis220,2,Agriculture
+teiis230,2,Agriculture
+teiis240,2,Agriculture
+teiis250,2,Agriculture
+teiis260,2,Agriculture
+teiis270,2,Agriculture
+teina011,2,Agriculture
+teina020,2,Agriculture
+teina021,2,Agriculture
+teina030,2,Agriculture
+teina031,2,Agriculture
+teina040,2,Agriculture
+teina041,2,Agriculture
+teina050,2,Agriculture
+teina080,2,Agriculture
+teina090,2,Agriculture
+teina100,2,Agriculture
+teina110,2,Agriculture
+ten00063,2,Agriculture
+ten00110,2,Agriculture
+ten00117,2,Agriculture
+ten00118,2,Agriculture
+ten00119,2,Agriculture
+ten00120,2,Agriculture
+tesem220,2,Agriculture
+tesem240,2,Agriculture
+tesov092,2,Agriculture
+tesov110,2,Agriculture
+tesov190,2,Agriculture
+tesov250,2,Agriculture
+tespm020,2,Agriculture
+tespm030,2,Agriculture
+tespm040,2,Agriculture
+tespm060,2,Agriculture
+tespm070,2,Agriculture
+tespm080,2,Agriculture
+tespm090,2,Agriculture
+tespm100,2,Agriculture
+tespm110,2,Agriculture
+tespm120,2,Agriculture
+tespm130,2,Agriculture
+tespm140,2,Agriculture
+tespm151,2,Agriculture
+tin00085,2,Agriculture
+tin00086,2,Agriculture
+tin00091,2,Agriculture
+tin00092,2,Agriculture
+tin00093,2,Agriculture
+tin00094,2,Agriculture
+tin00095,2,Agriculture
+tin00096,2,Agriculture
+tin00098,2,Agriculture
+tin00099,2,Agriculture
+tipsex11,0,Finance
+tipsex12,0,Finance
+tipsex13,0,Finance
+tipsfs10,0,Finance
+tipsfs20,0,Finance
+tipsfs30,0,Finance
+tipsgo10,0,Finance
+tipsho10,0,Finance
+tipsho20,0,Finance
+tipsho30,0,Finance
+tipsho40,0,Finance
+tipsho50,0,Finance
+tipsii10,0,Finance
+tipsii12,0,Finance
+tipsii15,0,Finance
+tipsii18,0,Finance
+tipsii20,0,Finance
+tipsii21,0,Finance
+tipsii30,0,Finance
+tipsii40,0,Finance
+tipsii50,0,Finance
+tipslc10,0,Finance
+tipslc20,0,Finance
+tipslc30,0,Finance
+tipslc40,0,Finance
+tipslm10,0,Finance
+tipslm100,0,Finance
+tipslm13,0,Finance
+tipslm15,0,Finance
+tipslm16,0,Finance
+tipslm20,0,Finance
+tipslm50,0,Finance
+tipslm60,0,Finance
+tipslm70,0,Finance
+tipslm80,0,Finance
+tipslm90,0,Finance
+tipsna20,0,Finance
+tipsna30,0,Finance
+tipsna40,0,Finance
+tipsna50,0,Finance
+tipsna51,0,Finance
+tipsna60,0,Finance
+tipsna62,0,Finance
+tipsna70,0,Finance
+tipspc10,0,Finance
+tipspc13,0,Finance
+tipspc14,0,Finance
+tipspc15,0,Finance
+tipspc16,0,Finance
+trng fed3,5,Transport
+trng inf3,5,Transport
+urt 10r 3gdp$dv 1584,5,Transport
+urt ipr da,5,Transport
+urt ipr dapop,5,Transport
+urt ipr dfa,5,Transport
+urt ipr dr,5,Transport
+urt ipr dfapop,5,Transport

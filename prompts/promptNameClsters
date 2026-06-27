@@ -1,0 +1,10 @@
+prompt = f"""You are an expert statistical taxonomist. 
+I have grouped a set of statistical measures into a cluster.
+Based on the following sample of terms, provide a single, short, and accurate domain name (e.g., "Agriculture", "Transport", "Economy").
+
+RULES:
+- Output ONLY the domain name.
+- Do not add any punctuation, quotes, or conversational text.
+
+TERMS: {', '.join(terms_sample)}
+"""

@@ -1,0 +1,798 @@
+term,cluster
+annual,5
+apri lrnt h,5
+apri pi95 vwia,5
+apri pi95 vwpa,5
+avia ec emp arp,6
+avia ec emp ent,6
+avia ec enterp,6
+avia eq arc age,5
+avia eq arc agereg,5
+avia if arp,5
+avia tpgo,5
+avia tppa,5
+cei pc050,5
+cei srm010,2
+cei wm010,2
+cei wm011,2
+cei wm020,2
+cei wm060,2
+demo r pjanind3$dv 1561,5
+edat lfse 03$dv 598,7
+edat lfse 14$dv 1864,7
+edat lfse 14$dv 356,7
+edat lfse 20$dv 1101,7
+edat lfso 00t2,7
+edat lfso 00t4,7
+edat lfso 00t5,7
+egi em1,5
+egi em2,5
+egi em3,5
+egi rd1,5
+egi so1,5
+egi tr1,5
+egi tr2,5
+egi tr3,5
+egi tr4,5
+egi tr5,5
+egi va1,5
+egr conc,6
+egr emp,6
+egr mne,5
+egr mne n2sc,5
+enpe apro cpnh1,6
+enpe apro mt ls,6
+enpe apro mt p,6
+enpe bop c6 a,6
+enpe bop iip6,6
+enpe bop iip6 serv,6
+enpe cpi,6
+enpe edat lfse 03,7
+enpe edat lfse 14,7
+enpe educ figdp,6
+enpe educ uoe enra02,6
+enpe ef lus main,6
+enpe ext bal,6
+enpe ext intro,6
+enpe fish ca main,6
+enpe gov 10dd,6
+enpe hlth exp,6
+enpe ilc di11,6
+enpe ilc li01,3
+enpe ilc li09,3
+enpe irt ld,6
+enpe irt lt gby10,5
+enpe irt st,6
+enpe isoc ci ifp fu,6
+enpe isoc ci in h,6
+enpe lfsa argaed,7
+enpe lfsa ergan,7
+enpe lfsa urgan,7
+enpe lfsa urgan2,7
+enpe mar go,6
+enpe mon res,6
+enpe nama 10 a10,6
+enpe nama 10 gdp,6
+enpe nama 10 gdp ea,6
+enpe nama 10 lp,6
+enpe nama 10 pe,6
+enpe nama 10 ulc,6
+enpe rail go,6
+enpe rail if,6
+enpe rd e gerdfund,6
+enpe reg area3,6
+enpe road eqs car,6
+enpe road go,6
+enpe road if,6
+enpe road pa,6
+enpe spr exp,6
+enpe sts incopr,6
+enpe sts inppd,6
+enpe sts trtu,6
+enpe sts trtu1,6
+enpe tour cap nat,6
+enpe tour dem tttot,6
+enpe tour occ arnat,6
+enps apro cpnh1,6
+enps apro mt ls,6
+enps apro mt p,6
+enps avia fr,6
+enps avia if,6
+enps avia pa,6
+enps avia typ,6
+enps bop iip6,6
+enps cpi,6
+enps demo dens,6
+enps demo frate1,6
+enps demo gind,6
+enps demo infant,6
+enps demo mlexpec,6
+enps demo nind,6
+enps demo pjangry,6
+enps demo under5,6
+enps edat lfse3,7
+enps edat lfse4,7
+enps educ comprate,6
+enps educ compyr,6
+enps educ enrate,6
+enps educ figdp,6
+enps educ ltr,6
+enps educ parity,6
+enps ef lus main,6
+enps env air emis,6
+enps env wasacc,6
+enps env wasgenh,6
+enps env wasgenm,6
+enps env wasgenp,6
+enps env wastrt,6
+enps env wat abs,6
+enps env wat cat,6
+enps env wat cov,6
+enps ww con,6
+enps fish aq2a,6
+enps fish ca main,6
+enps gov 10dd,6
+enps gov 10dde,6
+enps ilc di11,6
+enps ilc natln,6
+enps ilc sanit,6
+enps ilc secure,6
+enps lfsa argaed,7
+enps lfsa egaps,7
+enps lfsa ergan,7
+enps lfsa pganws,7
+enps lfsa urgan,7
+enps mar eq1000,6
+enps mar eq300,6
+enps mar eqton,6
+enps mar frdir,6
+enps mar padir,6
+enps mar por,6
+enps nama 10 a10,6
+enps nama 10 gdp,6
+enps nama 10 gdp ea,6
+enps nrg bal c,6
+enps nrg bal c1,6
+enps rail eq,6
+enps rail fr,6
+enps rail if,6
+enps rail pa,6
+enps reg area3,6
+enps road eqs car,6
+enps road go,6
+enps road if,6
+enps tour border,6
+enps tour cap nat,6
+enps tour cap natb,6
+enps tour dem tttot,6
+enps tour occ arnat,6
+enps tour occ ninat,6
+enps tran sf r,6
+env waspb,6
+env waspcb,6
+env wat pop,5
+eq fer05,5
+eq mor06,5
+eq pop02,5
+eq pop03,5
+eq pop04,5
+ert bil conv a,6
+ert bil eur a$dv 841,8
+ert bil eur a$dv 861,8
+ert h eur a,5
+for area,5
+for awu,5
+for profnc,5
+for protect,5
+for secwpp,5
+for vol,5
+gbv,5
+ipv,5
+frq,5
+lim,5
+occ,5
+rp,5
+type,5
+npv,5
+age,5
+cnq,5
+cob,5
+du,5
+ed,5
+perp,5
+semesterly,5
+hbs exp t111,8
+hbs exp t132,8
+cd acdr2$dv 1145,3
+aperrto,5
+appyll,5
+dar,5
+iap,5
+bedoc,5
+dischnr,5
+ren,5
+emasne,5
+emasnt,5
+emaspr,5
+emaspt,5
+al1e$dv 1142,8
+hlth ehis al3e$dv,8
+hlth ehis al3i$dv,8
+hlth ehis am7sa,8
+hlth ehis am7sh,8
+hlth ehis bm1e$dv,8
+hlth ehis bm1i$dv,8
+hlth ehis fv3e$dv,8
+hlth ehis fv3e$dv,8
+hlth ehis hc2,8
+hlth ehis hc3,8
+hlth ehis mh1e$dv,8
+hlth ehis mh1i$dv,8
+hlth ehis pe2e$dv,8
+hlth ehis pe2e$dv,8
+hlth ehis pe3e$dv,8
+hlth ehis sk3e$dv,8
+hlth ehis sk3e$dv,8
+hlth ehis sk3i$dv,8
+hlth ehis sk3i$dv,8
+hlth hlye h,8
+hlth hlye$dv,8
+hlth ps immu,5
+hlth ps prev,8
+hlth ps scre,8
+hlth rs bdltc,8
+hlth rs grd2$dv,8
+hlth rs prs2$dv,8
+hlth sha11 hc$dv,8
+hlth sha11 hf$dv,8
+hlth sha11 hf$dv,8
+hlth silc 08$dv,8
+hlth silc 08b r,8
+hlth silc 11$dv,8
+hsw ind,5
+hsw occ cnr,5
+hsw occ ina,5
+icw car 01,5
+icw car 02,5
+icw pov 03,5
+ilc camdforg0,3
+ilc camdothg0,3
+ilc camnforall,3
+ilc camnforg0,3
+ilc camnothall,3
+ilc camnothg0,3
+ilc caparents,3
+ilc chmd01,3
+ilc chmd02,3
+ilc chmd03,3
+ilc chmd04,3
+ilc chsb01,3
+ilc chsb02,3
+ilc di11 r,3
+ilc di11g,3
+ilc di11h,3
+ilc di11i,3
+ilc di12,3
+ilc di12b,3
+ilc di12c,3
+ilc di18,3
+ilc hch15,3
+ilc hch16$dv 2262,3
+ilc hch17$dv 2261,3
+ilc hch18$dv 2263,3
+ilc hch19$dv 2264,3
+ilc igtp03,3
+ilc igtp04,3
+ilc iw02$dv 2665,3
+ilc iw04,3
+ilc iw06,3
+ilc iw07,3
+ilc li02$dv 548,3
+ilc li11$dv 2662,3
+ilc li12,3
+ilc li13,3
+ilc li21$dv 2663,3
+ilc li22$dv 2664,3
+ilc li33,3
+ilc li33$dv 1983,3
+ilc li34,3
+ilc li34$dv 1982,3
+ilc li48,3
+ilc li70,3
+ilc lk11,3
+ilc lvhd01,3
+ilc lvhd02,3
+ilc lvhd03,3
+ilc lvhd04,3
+ilc lvhd06,3
+ilc lvhl11n$dv 1181,3
+ilc lvhl21n,3
+ilc lvhl23n,3
+ilc lvhl30$dv 1323,3
+ilc lvhl36,3
+ilc lvho03h,3
+ilc lvho04d,3
+ilc lvho04n,3
+ilc lvho05a$dv 1185,3
+ilc lvho05a$dv 2685,3
+ilc lvho05c,3
+ilc lvho05d,3
+ilc lvho07 r,3
+ilc lvho07b,3
+ilc lvho07c,3
+ilc lvho07d,3
+ilc lvho08b,3
+ilc lvho50c,3
+ilc lvho50d,3
+ilc lvph01,3
+ilc lvph02h,3
+ilc lvph03,3
+ilc lvph05,3
+ilc lvps08$dv 1041,3
+ilc lvps20,3
+ilc mddd04b$dv 2721,3
+ilc mddd11$dv 655,3
+ilc mddd17,3
+ilc mddd21,3
+ilc mdes03$dv 2702,3
+ilc mdho02c,3
+ilc mdho03c,3
+ilc mdho06a$dv 1184,3
+ilc mdho06a$dv 2701,3
+ilc mdsd03$dv 1165,3
+ilc mdsd06,3
+ilc mdsd07$dv 2621,3
+ilc mdsd08,3
+ilc mdsd09,3
+ilc mdsd18,3
+ilc odbt01,3
+ilc odbt02,3
+ilc odbt03,3
+ilc odbt04,3
+ilc odbt05,3
+ilc odbt06,3
+ilc odbt07,3
+ilc odbt08,3
+ilc odbt09,3
+ilc odbt12,3
+ilc odbt13,3
+ilc odbt14,3
+ilc peps01n$dv 1161,3
+ilc peps07,3
+ilc peps11n,3
+ilc peps13n,3
+ilc pw01$dv 2761,3
+ilc pw01b$dv 2749,3
+ilc pw01b$dv 2751,3
+ipr da gdp,5
+ipr da pop,5
+ipr da tot,5
+ipr da typ,5
+ipr dr tot,5
+ipr ta gdp,5
+ipr ta ntr,5
+ipr ta pop,5
+ipr ta tot,5
+ipr ta typ,5
+irt lt gby10 m,5
+irt lt mcby q,5
+iss 18bfmmag,5
+iss 21gvcba,5
+iss 21gvcms,5
+lfsa eppgai$dv 577,7
+lfsa ergaed$dv 319,7
+lfsa ewpeve$dv 604,7
+lfsa ewpnig$dv 605,7
+lfsa ewpsat$dv 606,7
+lfsa ewpsun$dv 607,7
+lfsa ipga$dv 610,7
+lfso 06finiagps,7
+lfso 10fvaredu$dv 609,7
+lfso 12agepens,7
+lfso 12earlyret,7
+lfso 12penstyp,7
+lfso 12reduchrs,7
+lfso 12worklong,7
+lfso 14loq$dv 615,7
+mar qg qm,5
+ewhd,5
+ewhg,5
+ewhk,5
+pvh,5
+pwh,5
+pwhc,5
+pwhl,5
+pwhr,5
+sg am,5
+cwd,5
+ewx,5
+pwb,5
+pwc,5
+pwl,5
+pwr,5
+go,5
+pa,5
+sss,5
+med en2,4
+med en21,4
+med en22,4
+med en23,4
+med en24,4
+med en25,4
+med en3,4
+med en41,4
+med en42,4
+med en43,4
+med en44,4
+med en46,4
+med en47,4
+med en51,4
+med en52,4
+med en53,4
+med en61,4
+med en62,4
+med en63,4
+med ra2,4
+med ra3,4
+med ra4,4
+med ra5,4
+med rd1,4
+med rd2,4
+med rd3,4
+med rd4,4
+med rd5,4
+med rd6,4
+med to11,4
+med to12,4
+med to13,4
+med to21,4
+med to22,4
+monthly,5
+nama 10 fte,5
+nama 10 pp,5
+nrg 125m,5
+nrg 135m,5
+nrg bal s$dv 650,5
+nrg chdd a,5
+nrg d sercv,5
+nrg dhdc c,5
+nrg dhdc e,5
+nrg dhdc n,5
+nrg dhdc ,5
+nrg ind di,5
+nrg ind ep,5
+nrg ind esr,5
+nrg ind ffgae,5
+nrg ind id3cf,5
+nrg ind idogas,5
+nrg ind ren,5
+nrg inf stcs,5
+nrg pc 202 v,5
+nrg pc 203 v,5
+nrg pc 204 v,5
+nrg pc 205 v,5
+nrg pc 206,5
+prc hicp,5
+prc hpi,5
+prc ppp,5
+prc rem,5
+rail tf ns15,5
+rail tf ns20,5
+road ec empl,5
+road ec empl s,5
+road ec entemp,6
+road ec entveh,6
+road ec invest,5
+road eqr trailn,5
+road eqr trams,5
+road eqs busmot h,5
+road eqs bussea,5
+road eqs busveh,5
+road eqs carage,5
+road eqs caralt,5
+road eqs carhab,5
+road eqs motorc,5
+road eqs roaene h,5
+road eqs semit,5
+road eqs semitn,5
+road eqs spurp,5
+road eqs trail,5
+road eqs trailn,5
+road eqs trams,5
+road eqs unlweig,5
+road go ca c,5
+road go ca d c,5
+road go ca d ha,5
+road go na rl3g$dv 1581,5
+road go na ru3g$dv 1582,5
+road if barea,5
+road if bsurfa,5
+road if motorwa,5
+road pa mov,5
+road tert go,5
+road tf buscoa,5
+sdg 02 10,1
+sdg 02 20,1
+sdg 02 30,1
+sdg 02 40,1
+sdg 02 53,1
+sdg 02 60,1
+sdg 03 11,1
+sdg 03 20,1
+sdg 03 30,1
+sdg 03 41,1
+sdg 03 42,1
+sdg 03 60,1
+sdg 03 70,1
+sdg 04 10,1
+sdg 04 10a,1
+sdg 04 20,1
+sdg 04 40,1
+sdg 04 60,1
+sdg 05 10,1
+sdg 05 20,1
+sdg 05 30,1
+sdg 05 40,1
+sdg 05 50,1
+sdg 05 60,1
+sdg 06 10,1
+sdg 06 20,1
+sdg 06 30,1
+sdg 06 40,1
+sdg 06 50,1
+sdg 06 60,1
+sdg 07 10,1
+sdg 07 11,1
+sdg 07 20,1
+sdg 07 30,1
+sdg 07 40,1
+sdg 07 50,1
+sdg 07 60,1
+sdg 08 10,1
+sdg 08 11,1
+sdg 08 20,1
+sdg 08 20a,1
+sdg 08 30,1
+sdg 08 30a,1
+sdg 08 40,1
+sdg 08 60,1
+sdg 09 40,1
+sdg 09 50,1
+sdg 09 60,1
+sdg 09 70,1
+sdg 10 10,1
+sdg 10 20,1
+sdg 10 30,1
+sdg 10 41,1
+sdg 10 50,1
+sdg 10 60,1
+sdg 11 11,1
+sdg 11 20,1
+sdg 11 31,1
+sdg 11 32,1
+sdg 11 52,1
+sdg 11 60,1
+sdg 12 10,1
+sdg 12 21,1
+sdg 12 31,1
+sdg 12 51,1
+sdg 12 61,1
+sdg 13 31,1
+sdg 13 40,1
+sdg 13 50,1
+sdg 13 60,1
+sdg 13 70,1
+sdg 13 70a,1
+sdg 14 10,1
+sdg 14 21,1
+sdg 14 30,1
+sdg 14 40,1
+sdg 14 50,1
+sdg 14 60,1
+sdg 15 10,1
+sdg 15 20,1
+sdg 15 42,1
+sdg 15 50,1
+sdg 15 60,1
+sdg 15 61,1
+sdg 16 10,1
+sdg 16 20,1
+sdg 16 30,1
+sdg 16 40,1
+sdg 16 50,1
+sdg 16 60,1
+sdg 16 70,1
+sdg 17 10,1
+sdg 17 20,1
+sdg 17 40,1
+sdg 17 50,1
+sdg 17 60,1
+sts,5
+tot,5
+prod,5
+tag00101,2
+tag00102,2
+tag00103,2
+tag00115,2
+tag00116,2
+tag00120,2
+tag00121,2
+tag00122,2
+tag00123,2
+tag00124,2
+tag00125,2
+tai04,2
+tai07,2
+tai08,2
+tai09,2
+tai10,5
+tec00001,2
+tec00009,2
+tec00010,2
+tec00011,2
+tec00013,2
+tec00021,2
+tec00023,2
+tec00027,2
+tec00033,2
+tec00038,2
+tec00039,2
+tec00040,2
+tec00041,2
+tec00042,2
+tec00097,2
+tec00104,2
+tec00105,2
+tec00106,2
+tec00107,2
+tec00110,2
+tec00112,2
+tec00113,2
+tec00114,2
+tec00115,2
+tec00116,2
+tec00118,2
+tec00120,2
+tec00121,2
+tec00127,2
+tec00131,2
+tec00132,2
+teibp000,2
+teicp000,2
+teiet000,2
+teiis011,2
+teiis012,2
+teiis013,2
+teiis014,2
+teiis015,2
+teiis016,2
+teiis020,2
+teiis030,2
+teiis040,2
+teiis050,2
+teiis060,2
+teiis070,2
+teiis080,2
+teiis090,2
+teiis100,2
+teiis110,2
+teiis120,2
+teiis130,2
+teiis140,2
+teiis150,2
+teiis160,2
+teiis170,2
+teiis180,2
+teiis190,2
+teiis200,2
+teiis210,2
+teiis220,2
+teiis230,2
+teiis240,2
+teiis250,2
+teiis260,2
+teiis270,2
+teina011,2
+teina020,2
+teina021,2
+teina030,2
+teina031,2
+teina040,2
+teina041,2
+teina050,2
+teina080,2
+teina090,2
+teina100,2
+teina110,2
+ten00063,2
+ten00110,2
+ten00117,2
+ten00118,2
+ten00119,2
+ten00120,2
+tesem220,2
+tesem240,2
+tesov092,2
+tesov110,2
+tesov190,2
+tesov250,2
+tespm020,2
+tespm030,2
+tespm040,2
+tespm060,2
+tespm070,2
+tespm080,2
+tespm090,2
+tespm100,2
+tespm110,2
+tespm120,2
+tespm130,2
+tespm140,2
+tespm151,2
+tin00085,2
+tin00086,2
+tin00091,2
+tin00092,2
+tin00093,2
+tin00094,2
+tin00095,2
+tin00096,2
+tin00098,2
+tin00099,2
+tipsex11,0
+tipsex12,0
+tipsex13,0
+tipsfs10,0
+tipsfs20,0
+tipsfs30,0
+tipsgo10,0
+tipsho10,0
+tipsho20,0
+tipsho30,0
+tipsho40,0
+tipsho50,0
+tipsii10,0
+tipsii12,0
+tipsii15,0
+tipsii18,0
+tipsii20,0
+tipsii21,0
+tipsii30,0
+tipsii40,0
+tipsii50,0
+tipslc10,0
+tipslc20,0
+tipslc30,0
+tipslc40,0
+tipslm10,0
+tipslm100,0
+tipslm13,0
+tipslm15,0
+tipslm16,0
+tipslm20,0
+tipslm50,0
+tipslm60,0
+tipslm70,0
+tipslm80,0
+tipslm90,0
+tipsna20,0
+tipsna30,0
+tipsna40,0
+tipsna50,0
+tipsna51,0
+tipsna60,0
+tipsna62,0
+tipsna70,0
+tipspc10,0
+tipspc13,0
+tipspc14,0
+tipspc15,0
+tipspc16,0
+trng fed3,5
+trng inf3,5
+urt 10r 3gdp$dv 1584,5
+urt ipr da,5
+urt ipr dapop,5
+urt ipr dfa,5
+urt ipr dr,5
+urt ipr dfapop,5

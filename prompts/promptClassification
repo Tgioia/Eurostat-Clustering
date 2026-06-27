@@ -1,0 +1,19 @@
+prompt = f"""You are an automated statistical data classifier.
+Categorize the following Eurostat terms into exactly five lists.
+
+DEFINITIONS:
+"M" (Measures): Quantitative metrics or time concepts (e.g., annual, total, index).
+"N" (Dimension Names): Broad categories (e.g., age, sex, geopolitical entity).
+"A" (Dimension Values): Specific members of a category (e.g., female, 15-24 years).
+"U" (Units): Measurements (e.g., kilogram, percentage, euro).
+"O" (Other): Unreadable database codes, alphanumeric IDs (e.g., bs bs1, tps001), or irrelevant text.
+
+REQUIRED FORMAT:
+### JSON
+{{ "M": [], "N": [], "A": [], "U": [], "O": [] }}
+### COMMENTARY
+[Optional brief notes on uncertain terms]
+
+TERMS TO CLASSIFY:
+{', '.join(batch_terms)}
+"""
