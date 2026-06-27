@@ -4,7 +4,7 @@ This repository contains an automated, machine learning pipeline designed to ext
 
 Rather than relying on manual taxonomy creation, this project utilizes a privacy-preserving, local Large Language Model (LLM) alongside unsupervised machine learning to dynamically categorize complex database codes.
 
-## 🧠 Methodology & Architecture
+## Methodology & Architecture
 
 1. **Data Extraction & Vocabulary Generation**
    * Raw Eurostat data and NUTS geographic tables are processed to build a comprehensive global vocabulary (`global_vocabulary.txt`).
@@ -22,14 +22,14 @@ Rather than relying on manual taxonomy creation, this project utilizes a privacy
 4. **Dimensionality Reduction & Visualization**
    * The 384-dimensional vectors were reduced to a 2D plane using **Principal Component Analysis (PCA)** to visually validate the structural integrity of the mathematical domains.
 
-## 📁 Repository Structure
+## Repository Structure
 
 * **`/data/`**: Contains the raw Eurostat tables and NUTS 2021-2024 Excel files used as the foundation for the pipeline.
 * **`/src/`**: Modular Python architecture containing data loaders (`loadData.py`, `extractData.py`), the classification engine (`classify.py`), the clustering algorithms (`cluster_measures.py`, `name_clusters.py`), and visualization logic (`clusterVis.py`).
 * **`/outputs/`**: Contains the final categorized CSV files, the generated taxonomies, and the 2D PCA scatter plot (`cluster_plot.png`).
 * **`/prompts/`**: Contains the exact, engineered text prompts fed to the Granite 3B model (`promptClassification`, `promptNameClsters`).
 
-## ⚙️ Installation & Requirements
+## Installation & Requirements
 
 To run this pipeline locally, you must have [Ollama](https://ollama.com/) installed and running the `ibm/granite4.1:3b` model.
 
