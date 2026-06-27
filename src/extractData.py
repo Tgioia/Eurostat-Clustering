@@ -21,9 +21,9 @@ def extract_geography(text_list, nuts_vocab):
 def extract_dates(columns):
     d_t = set()
     pattern = re.compile(
-        r'\b(?:19|20)\d{2}[-]?Q[1-4]\b|'              # Matches Quarters: 2023-Q1 or 2019Q4
-        r'\b(?:19|20)\d{2}[-]?M(?:0[1-9]|1[0-2])\b|'  # Matches Months: 2023-M05 or 2020M12
-        r'\b(?:19|20)\d{2}\b'                         # Matches Standalone Years: 2023
+        r'\b(?:19|20)\d{2}[-]?Q[1-4]\b|'              
+        r'\b(?:19|20)\d{2}[-]?M(?:0[1-9]|1[0-2])\b|'  
+        r'\b(?:19|20)\d{2}\b'                         
     )
     
     for col in columns:
